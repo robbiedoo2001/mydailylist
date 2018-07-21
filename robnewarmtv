@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,Arm Music HD
+http://livestream.usatv.com/hls/m3u8/iArmMusicHD.m3u8
+#EXTINF:0,MTV.AM
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0,Shant Music HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/667/index.m3u8
+#EXTINF:0,Fortuna TV
+http://109.75.43.155:8081/ftv.webm?wt=842974392.m3u8
+#EXTINF:0,Armenia TV Europe,http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/792/index.m3u8
+#EXTINF:0,Armenia TV Satellite,http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/57/index.m3u8
+#EXTINF:0,Shant,http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/375/index.m3u8
+#EXTINF:0,AMGA,http://204.174.104.71:88/AMGA_WEB_1202/amga/index.m3u8
+#EXTINF:0,ARTN Shant TV,http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
+#EXTINF:0,AABC TV,http://204.174.104.71:88/AABC_WEB_1201/aabc/tracks-v1a1/index.m3u8
+#EXTINF:0,Shant TV Premium,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/57.ts
+#EXTINF:0,Shant Serial HD,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/99.ts
+#EXTINF:0,Arm NEWS,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/63.ts
+#EXTINF:0,Siro Nush,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/86.ts
+#EXTINF:0,Toot,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/69.ts
+#EXTINF:0,ArmMusic,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/72.ts
+#EXTINF:0,PanArmenian,http://92.223.103.69:25461/live/test_shant-serial/live_streaming/73.ts
+#EXTINF:0,Armenia 1 TV Satellite,http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/791/index.m3u8
+#EXTINF:0,USARMENIA TV1,http://livestream.usatv.com/hls/master-iUSATVLIVE.m3u8
+#EXTINF:0,USArmenia TV2,http://38.140.152.44:80/hls/master-iUSATVLIVE.m3u8
+#EXTINF:0,AABC TV,http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+#EXTINF:0,TV,rtmp://ktv.s4c.link:1935/live/livestream
+#EXTINF:0,Shant Serial,http://cdn.armenian-channel.ru:25461/live/test_shant-serial/live_streaming/99.m3u8
+#EXTINF:0,TBN Armenia,http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Shant Premium USA,http://cdn.armenian-channel.ru:25461/live/pac_snahttvchannls/online_shantfullpacstreming_stable/100.ts
+#EXTINF:0,Shant Serial HD,http://cdn.armenian-channel.ru:25461/live/pac_snahttvchannls/online_shantfullpacstreming_stable/99.ts
+#EXTINF:0,Shant TV Premium,http://cdn.armenian-channel.ru:25461/live/pac_snahttvchannls/online_shantfullpacstreming_stable/57.ts
+#EXTINF:0,PanArmenian,http://cdn.armenian-channel.ru:25461/live/pac_snahttvchannls/online_shantfullpacstreming_stable/73.ts
+#EXTINF:0,Siro Nush,http://cdn.armenian-channel.ru:25461/live/pac_snahttvchannls/online_shantfullpacstreming_stable/86.ts
