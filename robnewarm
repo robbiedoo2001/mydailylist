@@ -1,0 +1,28 @@
+#EXTM3U
+ 
+#EXTINF:0,Հ1
+http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/601/index.m3u8
+#EXTINF:0,Արմենիա Tv
+http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/614/index.m3u8
+#EXTINF:0,Շանթ
+8.http://fr978.edem.tv/iptv/2AEG48M9C5BKGS/604/index.m3u8
+#EXTINF:0,MTV.AM
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0,Первый канал
+http://195.189.246.131/first_250k.m3u8
+#EXTINF:0,Россия 1
+http://195.189.246.131/russia1_250k.m3u8
+#EXTINF:0,НТВ
+http://195.189.246.131/ntv_250k.m3u8
+#EXTINF:0, AMGA TV
+mms://204.174.105.58/wmtencoder/amga.wmv
+#EXTINF:0, ARTN TV
+mms://204.174.105.58/wmtencoder/artn.wmv
+#EXTINF:0, Erkir media
+http://s1.edem.tv/iptv/ESN3YULWEVCU5R/608/index.m3u8
+#EXTINF:0, H2
+http://s1.edem.tv/iptv/ESN3YULWEVCU5R/603/index.m3u8
+#EXTINF:0, Kentron
+http://s1.edem.tv/iptv/ESN3YULWEVCU5R/606/index.m3u8
+#EXTINF:0, Shoghakat
+http://s1.edem.tv/iptv/ESN3YULWEVCU5R/613/index.m3u8
