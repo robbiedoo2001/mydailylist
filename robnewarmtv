@@ -39,3 +39,5 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
 http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
 #EXTINF:0,AABC
 http://204.174.104.71:88/AABC_WEB_1201/aabc/tracks-v1a1/mono.m3u8
+#EXTINF:0,AMGA TV
+http://204.174.104.71:88/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
