@@ -1,18 +1,18 @@
 #EXTM3U
  
-#EXTINF:0,Հ1
+#EXTINF:0,H1
 http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/601/index.m3u8
-#EXTINF:0,Արմենիա Tv
+#EXTINF:0,Yedem Tv
 http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/614/index.m3u8
-#EXTINF:0,Շանթ
+#EXTINF:0,????
 8.http://fr978.edem.tv/iptv/2AEG48M9C5BKGS/604/index.m3u8
 #EXTINF:0,MTV.AM
 http://mtvam.ru/hlsam/playlist.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:0,First
 http://195.189.246.131/first_250k.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:0,Russia 1
 http://195.189.246.131/russia1_250k.m3u8
-#EXTINF:0,НТВ
+#EXTINF:0,NTV
 http://195.189.246.131/ntv_250k.m3u8
 #EXTINF:0, AMGA TV
 mms://204.174.105.58/wmtencoder/amga.wmv
