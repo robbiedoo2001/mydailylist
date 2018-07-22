@@ -33,3 +33,5 @@ http://77.95.189.24:8000/play/a00r
 http://77.95.189.24:8000/play/a00d
 #EXTINF:0,Armenian Public TV
 http://amtvdvr.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0,USArmenian
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
